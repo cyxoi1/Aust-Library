@@ -7,6 +7,6 @@ For using the Database you can use SQL Server Management Studio. After connectin
 
 Open Visual Studio and open Website6.sln file that will generate all the .aspx files to work with.
 
-You have to change the connection initials in SQLConnection object by providing your connection name. The initial catalogue is the name of the Database that you created in the previous step.
+You have to change the connection initials in SQLConnection object by providing your connection name. The Initial Catalog is the name of the Database that you created in the previous step.
 
 You can run the project from home.aspx and from there on you can navigate to other pages and operations.
